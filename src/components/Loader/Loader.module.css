@@ -1,0 +1,7 @@
+.ldsEllipsis {
+  display: inline-block;
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+}
